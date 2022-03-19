@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/supatechie/react_node_rate_limit_client.git/client
+[submodule "server"]
+	path = server
+	url = https://github.com/supatechie/react_node_rate_limit_server.git/server
